@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @simone-bennett
 - 👀 I'm about science, nerding, riding, lifting up heavy things, equality & obnoxious witty humour. Posts are mine & don't represent my employer. She/her
-- 🌱 I’m currently learning Bicep
+- 🌱 I’m currently learning githubm, terraform, WAF/CAF
 - 📫 Twitter: simone_au
