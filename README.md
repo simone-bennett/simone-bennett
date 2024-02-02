@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @simone-bennett
 - 👀 I'm about science, nerding, riding, lifting up heavy things, equality & obnoxious witty humour. Posts are mine & don't represent my employer. She/her
-- 🌱 I’m currently learning github, terraform, WAF/CAF
-- 📫 Twitter: simone_au
+- 🌱 I’m always learning github, terraform, WAF/CAF
+- 📫 BlueSky: simone_au
+- 📑 Blog: https://simone-au.medium.com/
