@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simone-bennett
-- 👀 I'm about science, nerding, riding, lifting up heavy things, equality & obnoxious witty humour. Posts are mine & don't represent my employer. She/her
+- 👀 Microsoft infra nerd working with Terraform, DevOps & Cloud. Newbie product owner, lover of dank memes.
 - 🌱 I’m always learning github, terraform, WAF/CAF
 - 📫 BlueSky: simone_au
 - 📑 Blog: https://simone-au.medium.com/
